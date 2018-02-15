@@ -1,0 +1,31 @@
+/* add your CSS here */
+.Pekingese{
+  width:300px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+}
+.fact{
+  font-style: italic;
+}
+span{
+  font-weight: bold;
+}
+ul{
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+}
+.card{
+  border: 2px solid #e6e6e6;
+  padding: 15px;
+  width:300px;
+  border-radius: 10px;
+  box-shadow: 0 10px 23px 0 rgba(0, 0, 0,0.9);
+}
+.info{
+  border: 1px solid #e6e6e6;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  border-radius: 20px;
+}
